@@ -5,9 +5,9 @@
         id          = "com.multimodetor.www"
         versionCode = "1" 
         version     = "1.0.1" >
-        <name>History Olympian</name>
+        <name>Discrete Math</name>
         <description>
-           History Olympian: An Interactive Game in Araling Panlipunan for Grade 7
+           Discrete Math: An Interactive Game in Araling Panlipunan for Grade 7
         </description>
         <author email="pclu.edu@gmail.com" href="http://www.pclu.edu.ph">
             Santo Tomas
