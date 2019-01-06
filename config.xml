@@ -5,9 +5,9 @@
         id          = "com.multimodetor.www"
         versionCode = "1" 
         version     = "1.0.1" >
-        <name>Discrete Math</name>
+        <name>Discrete Newbie</name>
         <description>
-           Discrete Math: An Interactive Game in Math
+           Discrete Newbie: An Interactive Game in Math
         </description>
         <author email="pclu.edu@gmail.com" href="http://www.pclu.edu.ph">
             Santo Tomas
